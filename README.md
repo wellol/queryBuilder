@@ -12,7 +12,7 @@ A SQL query builder with zero dependencies. Attempts to be [PSR-1](http://www.ph
 ## Install
 
 ```
-composer require latitude/latitude
+composer require wellol/queryBuilder
 ```
 
 ## Documentation

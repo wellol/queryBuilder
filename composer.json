@@ -1,5 +1,5 @@
 {
-    "name": "wellol/queryBuilder",
+    "name": "wellol/querybuilder",
     "type": "library",
     "description": "A SQL query builder with zero dependencies",
     "license": "MIT",

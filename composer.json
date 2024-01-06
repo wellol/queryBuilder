@@ -1,13 +1,13 @@
 {
-    "name": "latitude/latitude",
+    "name": "wellol/queryBuilder",
     "type": "library",
     "description": "A SQL query builder with zero dependencies",
     "license": "MIT",
     "authors": [
         {
-            "name": "Woody Gilk",
-            "email": "woody.gilk@gmail.com",
-            "homepage": "https://github.com/shadowhand"
+            "name": "Wellol",
+            "email": "reseau@gmail.com",
+            "homepage": "https://github.com/wellol"
         }
     ],
     "require": {
@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Latitude\\QueryBuilder\\": "src/"
+            "Wellol\\QueryBuilder\\": "src/"
         },
         "files": [
             "src/functions.php"
@@ -38,7 +38,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Latitude\\QueryBuilder\\": "tests/"
+            "Wellol\\QueryBuilder\\": "tests/"
         }
     },
     "scripts": {
